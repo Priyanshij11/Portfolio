@@ -131,7 +131,7 @@ a {
   flex: 0 auto;
 }
 
-.bio-links a{
+.bio .bio-links a{
   border-bottom: 1px solid #848d96;
   text-decoration: none;
 }
